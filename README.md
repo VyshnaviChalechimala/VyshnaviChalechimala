@@ -75,6 +75,7 @@ Led the development of a deep learning pipeline to process chest X-ray images fo
 
 ### 🧪 CIFAR-10 Classification Using Machine Learning & Deep Learning
 Implemented and compared various models including CNNs and ResNet-18 (PyTorch) for image classification. Applied preprocessing techniques such as normalization and PCA, and used scikit-learn to build and evaluate Random Forest models for baseline benchmarking.
+
 ---
 
 ## 📫 Let’s Connect
