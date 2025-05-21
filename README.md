@@ -70,6 +70,11 @@ Built a cloud-native student monitoring system using Lambda, DynamoDB, and Cogni
 ### 🏬 **E-commerce Order & Inventory Data Warehouse**
 Developed a dimensional model with incremental ETL in SSIS + SQL. Built Power BI dashboards to reduce inventory stockouts by 20%.
 
+### 🧠 Pneumonia Detection Using Deep Learning
+Led the development of a deep learning pipeline to process chest X-ray images for pneumonia detection. Designed and optimized a 15-layer CNN architecture using TensorFlow and Keras, achieving high image processing speeds and diagnostic accuracy.
+
+### 🧪 CIFAR-10 Classification Using Machine Learning & Deep Learning
+Implemented and compared various models including CNNs and ResNet-18 (PyTorch) for image classification. Applied preprocessing techniques such as normalization and PCA, and used scikit-learn to build and evaluate Random Forest models for baseline benchmarking.
 ---
 
 ## 📫 Let’s Connect
